@@ -102,3 +102,8 @@ After a few mins, run the below command to verify the cluster installation.
 kops validate cluster demok8scluster.k8s.local
 ```
 
+Delete the Cluster
+
+```
+kops delete cluster demok8scluster.k8s.local --yes
+```
