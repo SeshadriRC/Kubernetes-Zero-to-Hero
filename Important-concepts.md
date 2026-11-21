@@ -1,1 +1,2 @@
   - [Three tier application architecture](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2047#how-this-application-works)
+  - [CKA-course](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main)
