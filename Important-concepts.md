@@ -1,2 +1,3 @@
   - [Three tier application architecture](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2047#how-this-application-works)
   - [CKA-course](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main)
+  - [you need to check pod communication from one to one](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2047#validate-communication-from-frontend-pod)
